@@ -1,0 +1,5 @@
+aiogram==3.20.0.post0
+SQLAlchemy==2.0.41
+environs==14.2.0
+pytz==2025.2
+asyncpg==0.30.0
